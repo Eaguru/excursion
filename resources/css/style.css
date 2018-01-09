@@ -4,3 +4,32 @@ body {
 	color: white;
 	font-family: Verdana, serif;
 }
+
+h1 {
+	font-weight: normal;
+	font-size: 50px;
+}
+
+a {
+	color: aquamarine;
+	font-size: 16px;
+}
+
+h2 {
+	font-weight: 300;
+	font-size: 42px;
+}
+
+h3 {
+	font-size: 21px;
+	color: grey;
+}
+
+img {
+	padding: 15px 0;
+}
+
+#copyright {
+	font-weight: normal;
+	text-align: right;
+}
